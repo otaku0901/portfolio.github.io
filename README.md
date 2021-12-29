@@ -50,8 +50,7 @@ p{font-size:110%;
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="ht.html"><img src="wink.png" alt="Hobbies"  style="width:45px; height:52px; vertical-align:middle;" title="Get to know about me;" ></a><sub>Hobbies</sub>
+&nbsp&nbsp&nbsp&nbsp<a href="ht.html"><img src="wink.png" alt="Hobbies"  style="width:45px; height:52px; vertical-align:middle;" title="Get to know about me;" ></a><sub>Hobbies</sub>
 <a href="st.html">
 <img src="nervous.png" alt="Educational Details" style="width:45px; height:51px; vertical-align:middle;" title="It's nothing special;">
 </a><sub>Academic Skills</sub></h2>
